@@ -1,0 +1,2 @@
+#premier code
+print("allo")
